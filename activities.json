@@ -1,433 +1,119 @@
 [
-    {
-        "id": "tool-warp",
-        "type": "tool",
-        "title": "Warp Terminal",
-        "description": "My absolute favorite AI-powered terminal. Makes workflows 10x faster with blocks and natural language commands.",
-        "date": "Feb 10, 2026",
-        "icon": "Wrench",
-        "link": "https://www.warp.dev/",
-        "tags": [
-            "Tools",
-            "DX",
-            "Free"
-        ],
-        "isFavorite": true
-    },
-    {
-        "id": "tool-postman",
-        "type": "tool",
-        "title": "Postman",
-        "description": "Daily driver for testing and debugging REST APIs, auth flows, and webhooks.",
-        "date": "Feb 10, 2026",
-        "icon": "Send",
-        "link": "https://www.postman.com/",
-        "tags": [
-            "Backend",
-            "API",
-            "Tools"
-        ],
-        "isFavorite": true
-    },
-    {
-        "id": "tool-obsidian",
-        "type": "tool",
-        "title": "Obsidian",
-        "description": "How I keep track of my second brain. The graph view is a game-changer.",
-        "date": "Jan 28, 2026",
-        "icon": "Sparkles",
-        "link": "https://obsidian.md/",
-        "tags": [
-            "Productivity",
-            "PKM"
-        ],
-        "isFavorite": true
-    },
-    {
-        "id": "video-distributed-systems",
-        "type": "video",
-        "title": "The Future of Distributed Systems",
-        "description": "A must-watch talk on how edge computing and serverless are converging.",
-        "date": "Feb 09, 2026",
-        "icon": "Youtube",
-        "videoUrl": "https://www.youtube.com/watch?v=f6kdp27TYZs",
-        "imageUrl": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&q=80&w=800",
-        "tags": [
-            "Distributed Systems",
-            "Learning"
-        ],
-        "content": "Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth..."
-    },
-    {
-        "id": "video-agentic-ai",
-        "type": "video",
-        "title": "Agentic AI Explained",
-        "description": "Deep dive into agent-based systems, planning loops, tools, and memory.",
-        "date": "Feb 09, 2026",
-        "icon": "Youtube",
-        "link": "https://www.youtube.com/watch?v=Karpathy_LLM_Placeholder",
-        "tags": [
-            "Agentic AI",
-            "LLMs",
-            "Learning"
-        ],
-        "content": "Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth..."
-    },
-    {
-        "id": "video-modern-databases",
-        "type": "video",
-        "title": "How Modern Databases Work",
-        "description": "Deep dive into storage engines, indexes, and query execution.",
-        "date": "Current",
-        "icon": "Youtube",
-        "link": "https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725",
-        "videoUrl": "https://www.youtube.com/watch?v=TZ5a3gCCZYo",
-        "imageUrl": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&q=80&w=800",
-        "tags": [
-            "Databases",
-            "Systems",
-            "Learning"
-        ],
-        "content": "Summary: Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth..."
-    },
-    {
-        "id": "video-cpu-execution",
-        "type": "video",
-        "title": "How CPUs Actually Execute Instructions",
-        "description": "Microarchitecture, pipelines, and instruction-level parallelism.",
-        "date": "Current",
-        "icon": "Youtube",
-        "link": "https://www.youtube.com/watch?v=7z5FwdfL7v4",
-        "tags": [
-            "Computer Architecture",
-            "Systems"
-        ],
-        "content": "Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth..."
-    },
-    {
-        "id": "video-os-internals",
-        "type": "video",
-        "title": "Operating Systems Internals",
-        "description": "Scheduling, memory, and kernel-level abstractions.",
-        "date": "Current",
-        "icon": "Youtube",
-        "link": "https://www.youtube.com/watch?v=8bDgWvyglno",
-        "tags": [
-            "OS",
-            "Systems"
-        ]
-    },
-    {
-        "id": "video-firedancer",
-        "type": "video",
-        "title": "Firedancer: Solana High Performance Validator",
-        "description": "How Firedancer pushes Solana toward ultra-low latency.",
-        "date": "Current",
-        "icon": "Youtube",
-        "link": "https://www.youtube.com/watch?v=QL_yJWI-kNI",
-        "tags": [
-            "Solana",
-            "Blockchain",
-            "Performance"
-        ]
-    },
-    {
-        "id": "video-karpathy-llms",
-        "type": "video",
-        "title": "What Are LLMs?",
-        "description": "Andrej Karpathy explains LLMs from first principles.",
-        "date": "Current",
-        "icon": "Youtube",
-        "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-        "tags": [
-            "LLMs",
-            "AI"
-        ]
-    },
-    {
-        "id": "blog-iit-jammu-review",
-        "type": "blog",
-        "title": "Reflections on IIT Jammu: A Year in Review",
-        "description": "My personal journey and lessons learned during my first year at IIT Jammu.",
-        "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&q=80&w=800",
-        "date": "Feb 05, 2026",
-        "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-        "tags": [
-            "Life",
-            "IIT Jammu",
-            "My Blog"
-        ],
-        "content": "Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth..."
-    },
-    {
-        "id": "blog-scalable-backend",
-        "type": "blog",
-        "title": "Building Scalable Backend Systems as an Undergrad",
-        "description": "Lessons from working with Django, MongoDB, and real production constraints.",
-        "date": "Feb 06, 2026",
-
-        "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&q=80&w=800",
-        "link": "https://www.ryrob.com/free-blogging-sites/",
-        "tags": [
-            "Backend",
-            "System Design",
-            "My Blog"
-        ],
-        "content": "Over the past year, I’ve built backend systems handling WhatsApp automation, billing modules, and AI-powered workflows. From designing MongoDB schemas to ignoring _id safely in Django views, this post breaks down real lessons learned from production-grade mistakes and fixes..."
-    },
-    {
-        "id": "blog-dhh-incompetence",
-        "type": "blog",
-        "title": "Programmers Should Stop Celebrating Incompetence",
-        "description": "A critique of modern software culture.",
-        "date": "Current",
-        "link": "https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725",
-        "tags": [
-            "Engineering Culture",
-            "Opinion"
-        ]
-    },
-    {
-        "id": "blog-cloudflare-containers",
-        "type": "blog",
-        "title": "Cloud Computing Without Containers",
-        "description": "Cloudflare’s perspective on simpler deployment models.",
-        "date": "Current",
-        "link": "https://blog.cloudflare.com/cloud-computing-without-containers",
-        "tags": [
-            "Cloud",
-            "Infrastructure"
-        ]
-    },
-    {
-        "id": "blog-ml-argo",
-        "type": "blog",
-        "title": "ML Hyperparameter Optimization with Argo",
-        "description": "How Canva runs large-scale ML experiments.",
-        "date": "Current",
-        "link": "https://www.canva.dev/blog/engineering/machine-learning-hyperparameter-optimization-with-argo/",
-        "tags": [
-            "Machine Learning",
-            "MLOps"
-        ],
-        "content": "Over the past year, I’ve built backend systems handling WhatsApp automation, billing modules, and AI-powered workflows. From designing MongoDB schemas to ignoring _id safely in Django views, this post breaks down real lessons learned from production-grade mistakes and fixes..."
-    },
-    {
-        "id": "learning-kubernetes-internals",
-        "type": "learning",
-        "title": "Mastering Kubernetes Internals",
-        "description": "Currently diving deep into etcd, control plane mechanics, and custom controllers.",
-        "date": "Current",
-        "icon": "Brain",
-        "tags": [
-            "Kubernetes",
-            "DevOps",
-            "Learning"
-        ]
-    },
-    {
-        "id": "learning-enterprise-ai",
-        "type": "learning",
-        "title": "Enterprise Conversational AI Systems",
-        "description": "Studying conversation state, memory, audit logs, and multi-agent orchestration.",
-        "date": "Current",
-        "icon": "Brain",
-        "tags": [
-            "Conversational AI",
-            "Agentic AI",
-            "Backend"
-        ]
-    },
-    {
-        "id": "learning-system-design-patterns",
-        "type": "learning",
-        "title": "Exploring System Design Patterns",
-        "description": "Diving into load balancers, caching strategies, and database sharding.",
-        "date": "Feb 03, 2026",
-        "link": "https://github.com/donnemartin/system-design-primer",
-        "tags": [
-            "Architecture",
-            "Scalability"
-        ]
-    },
-    {
-        "id": "learning-fintech-systems",
-        "type": "learning",
-        "title": "System Design for FinTech Platforms",
-        "description": "Studying scalability, auditability, rate limiting, and data consistency.",
-        "date": "Feb 03, 2026",
-        "link": "https://github.com/donnemartin/system-design-primer",
-        "tags": [
-            "System Design",
-            "FinTech",
-            "Scalability"
-        ]
-    },
-    {
-        "id": "project-whatsapp-backend",
-        "type": "project",
-        "title": "WhatsApp Automation Backend",
-        "description": "Django + MongoDB system for message workflows, logs, and webhook handling.",
-        "date": "Jan 30, 2026",
-        "icon": "Code",
-        "link": "https://github.com/your-username/whatsapp-backend",
-        "tags": [
-            "Django",
-            "MongoDB",
-            "Production"
-        ],
-        "isFavorite": true
-    },
-    {
-        "id": "memory-mongodb-3am",
-        "type": "memory",
-        "title": "Debugging MongoDB at 3 AM",
-        "description": "When ignoring `_id` finally fixed half the bugs.",
-        "date": "Jan 15, 2026",
-        "icon": "Moon",
-        "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&q=80&w=800",
-        "tags": [
-            "Backend Life",
-            "Memories",
-            "IIT Jammu"
-        ]
-    },
-    {
-        "id": "doc-slurm",
-        "type": "doc",
-        "title": "SLURM Workload Manager Documentation",
-        "description": "Understanding cluster scheduling and HPC workloads.",
-        "date": "Current",
-        "link": "https://slurm.schedmd.com/documentation.html",
-        "tags": [
-            "HPC",
-            "Schedulers",
-            "Systems"
-        ]
-    },
-    {
-        "id": "book-crafting-interpreters",
-        "type": "book",
-        "title": "Crafting Interpreters",
-        "description": "Building interpreters from scratch.",
-        "date": "Current",
-        "link": "https://craftinginterpreters.com/",
-        "tags": [
-            "Compilers",
-            "Languages"
-        ]
-    },
-    {
-        "id": "tool-leptos",
-        "type": "learning",
-        "title": "Leptos",
-        "description": "Rust-based full-stack web framework with fine-grained reactivity.",
-        "date": "Current",
-        "link": "https://leptos.dev/",
-        "tags": [
-            "Rust",
-            "Web",
-            "Frameworks"
-        ]
-    },
-    {
-        "id": "blog-journey-stack",
-        "type": "blog",
-        "title": "Journey to the Stack",
-        "description": "A legendary walkthrough of how programs run on real machines.",
-        "date": "Current",
-        "link": "https://manybutfinite.com/post/journey-to-the-stack/",
-        "tags": [
-            "Low Level",
-            "Systems"
-        ]
-    },
-    {
-        "id": "repo-rust-lifetimes",
-        "type": "repo",
-        "title": "Rust Lifetime Misconceptions",
-        "description": "Deep explanation of Rust lifetimes and `'static`.",
-        "date": "Current",
-        "link": "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md",
-        "tags": [
-            "Rust",
-            "Memory Safety"
-        ]
-    },
-    {
-        "id": "repo-judge0-helm",
-        "type": "repo",
-        "title": "Judge0 Helm Charts",
-        "description": "Deploying online code execution infrastructure with Helm.",
-        "date": "Current",
-        "link": "https://github.com/saikatharryc/helm/tree/master/charts/judge0",
-        "tags": [
-            "Kubernetes",
-            "DevOps"
-        ]
-    },
-    {
-        "id": "repo-parseable",
-        "type": "repo",
-        "title": "Parseable",
-        "description": "Open-source log storage built for high performance.",
-        "date": "Current",
-        "link": "https://github.com/parseablehq/parseable/tree/main",
-        "tags": [
-            "Logs",
-            "Databases",
-            "Systems"
-        ]
-    },
-    {
-        "id": "doc-eip1967",
-        "type": "doc",
-        "title": "EIP-1967 Proxy Storage Slots",
-        "description": "Understanding upgradeable smart contracts.",
-        "date": "Current",
-        "link": "https://eips.ethereum.org/EIPS/eip-1967",
-        "tags": [
-            "Ethereum",
-            "Smart Contracts"
-        ]
-    },
-    {
-        "id": "blog-evaluation",
-        "type": "blog",
-        "title": "On Evaluation",
-        "description": "Thoughts on evaluating ML systems correctly.",
-        "date": "Current",
-        "link": "https://arun.chagantys.org/posts/on-evaluation.html",
-        "tags": [
-            "Machine Learning",
-            "Research"
-        ]
-    },
-    {
-        "id": "blog-bun-internals",
-        "type": "blog",
-        "title": "Bun Runtime Internals",
-        "description": "Behind the scenes of bun install and FFI.",
-        "date": "Current",
-        "link": "https://bun.com/blog/behind-the-scenes-of-bun-install",
-        "tags": [
-            "JavaScript",
-            "Runtime",
-            "Systems"
-        ]
-    },
-    {
-        "id": "blog-openai-webrtc",
-        "type": "blog",
-        "title": "How OpenAI Uses WebRTC",
-        "description": "Architecture behind GPT Realtime.",
-        "date": "Current",
-        "imageUrl": "https://webrtchacks.com/wp-content/uploads/2025/09/word-image-4634-1-1.jpeg",
-        "link": "https://webrtchacks.com/how-openai-does-webrtc-in-the-new-gpt-realtime/",
-        "tags": [
-            "WebRTC",
-            "Realtime Systems"
-        ],
-        "content": "Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth... Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth...Entering IIT Jammu was a turning point. From the chilly mornings in the Shivalik range to the late-night debugging sessions in the lab, this year has been a marathon of growth..."
-    }
+  {
+    "id": "tool-warp",
+    "type": "tool",
+    "title": "Warp Terminal",
+    "description": "AI-powered terminal with command blocks and natural language workflows.",
+    "date": "2026-02-10",
+    "icon": "Wrench",
+    "link": "https://www.warp.dev/",
+    "tags": ["Tools", "DX"],
+    "isFavorite": true
+  },
+  {
+    "id": "tool-postman",
+    "type": "tool",
+    "title": "Postman",
+    "description": "Testing and debugging REST APIs, auth flows, and webhooks.",
+    "date": "2026-02-10",
+    "icon": "Send",
+    "link": "https://www.postman.com/",
+    "tags": ["Backend", "API"],
+    "isFavorite": true
+  },
+  {
+    "id": "tool-obsidian",
+    "type": "tool",
+    "title": "Obsidian",
+    "description": "Personal knowledge management with bidirectional links and graph view.",
+    "date": "2026-01-28",
+    "icon": "Sparkles",
+    "link": "https://obsidian.md/",
+    "tags": ["Productivity", "PKM"],
+    "isFavorite": true
+  },
+  {
+    "id": "video-distributed-systems",
+    "type": "video",
+    "title": "The Future of Distributed Systems",
+    "description": "How edge computing and serverless architectures are converging.",
+    "date": "2026-02-09",
+    "icon": "Youtube",
+    "videoUrl": "https://www.youtube.com/watch?v=f6kdp27TYZs",
+    "imageUrl": "https://images.unsplash.com/photo-1516116216624-53e697fedbea",
+    "tags": ["Distributed Systems", "Learning"],
+    "content": "A high-level talk covering modern distributed system trends and trade-offs."
+  },
+  {
+    "id": "video-agentic-ai",
+    "type": "video",
+    "title": "Agentic AI Explained",
+    "description": "Planning loops, tools, memory, and autonomous agent design.",
+    "date": "2026-02-09",
+    "icon": "Youtube",
+    "videoUrl": "https://www.youtube.com/watch?v=Karpathy_LLM_Placeholder",
+    "tags": ["Agentic AI", "LLMs"],
+    "content": "Breakdown of agent-based architectures and real-world system patterns."
+  },
+  {
+    "id": "video-modern-databases",
+    "type": "video",
+    "title": "How Modern Databases Work",
+    "description": "Storage engines, indexes, and query execution pipelines.",
+    "date": "2026-02-10",
+    "icon": "Youtube",
+    "videoUrl": "https://www.youtube.com/watch?v=TZ5a3gCCZYo",
+    "imageUrl": "https://images.unsplash.com/photo-1516116216624-53e697fedbea",
+    "tags": ["Databases", "Systems"],
+    "content": "Clear explanation of internal database mechanics and performance trade-offs."
+  },
+  {
+    "id": "blog-iit-jammu-review",
+    "type": "blog",
+    "title": "Reflections on IIT Jammu",
+    "description": "Lessons and growth from my first year at IIT Jammu.",
+    "date": "2026-02-05",
+    "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+    "link": "https://example.com/iit-jammu-review",
+    "tags": ["Life", "Education"],
+    "content": "A personal reflection on adapting to IIT culture, academics, and self-growth."
+  },
+  {
+    "id": "learning-enterprise-ai",
+    "type": "learning",
+    "title": "Enterprise Conversational AI Systems",
+    "description": "Conversation state, memory, audit logs, and agent orchestration.",
+    "date": "2026-02-10",
+    "icon": "Brain",
+    "tags": ["Conversational AI", "Backend"]
+  },
+  {
+    "id": "project-whatsapp-backend",
+    "type": "project",
+    "title": "WhatsApp Automation Backend",
+    "description": "Production Django + MongoDB backend for message workflows and webhooks.",
+    "date": "2026-01-30",
+    "icon": "Code",
+    "link": "https://github.com/your-username/whatsapp-backend",
+    "tags": ["Django", "MongoDB"],
+    "isFavorite": true
+  },
+  {
+    "id": "memory-mongodb-3am",
+    "type": "memory",
+    "title": "Debugging MongoDB at 3 AM",
+    "description": "The night ignoring `_id` fixed half the bugs.",
+    "date": "2026-01-15",
+    "icon": "Moon",
+    "tags": ["Backend Life"]
+  },
+  {
+    "id": "book-crafting-interpreters",
+    "type": "book",
+    "title": "Crafting Interpreters",
+    "description": "Learn how to build interpreters from scratch.",
+    "date": "2026-02-10",
+    "link": "https://craftinginterpreters.com/",
+    "tags": ["Compilers", "Languages"]
+  }
 ]
