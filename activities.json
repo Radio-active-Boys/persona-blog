@@ -1,5 +1,262 @@
 [
   {
+    "id": "tool-fastapi",
+    "type": "tool",
+    "title": "FastAPI",
+    "description": "High-performance Python web framework for building APIs with async support.",
+    "date": "2026-02-12",
+    "icon": "Code",
+    "link": "https://fastapi.tiangolo.com/",
+    "imageUrl": "https://logo.clearbit.com/tiangolo.com",
+    "tags": ["Backend", "API"],
+    "isFavorite": true
+  },
+  {
+    "id": "tool-grpc",
+    "type": "tool",
+    "title": "gRPC",
+    "description": "High-performance RPC framework supporting streaming and Protocol Buffers.",
+    "date": "2026-02-12",
+    "icon": "Zap",
+    "link": "https://grpc.io/docs/",
+    "imageUrl": "https://logo.clearbit.com/grpc.io",
+    "tags": ["Distributed Systems", "RPC"]
+  },
+  {
+    "id": "spec-openapi",
+    "type": "learning",
+    "title": "OpenAPI Specification",
+    "description": "Standard specification for defining REST APIs using YAML or JSON.",
+    "date": "2026-02-12",
+    "icon": "FileText",
+    "link": "https://swagger.io/specification/",
+    "imageUrl": "https://logo.clearbit.com/swagger.io",
+    "tags": ["API", "Documentation"]
+  },
+  {
+    "id": "tool-postgresql",
+    "type": "tool",
+    "title": "PostgreSQL",
+    "description": "Advanced open-source relational database system.",
+    "date": "2026-02-12",
+    "icon": "Database",
+    "link": "https://www.postgresql.org/docs/current/",
+    "imageUrl": "https://logo.clearbit.com/postgresql.org",
+    "tags": ["Database", "Backend"],
+    "isFavorite": true
+  },
+  {
+    "id": "tool-redis",
+    "type": "tool",
+    "title": "Redis",
+    "description": "In-memory data store used for caching, sessions, and pub/sub systems.",
+    "date": "2026-02-12",
+    "icon": "Layers",
+    "link": "https://redis.io/docs/latest/",
+    "imageUrl": "https://logo.clearbit.com/redis.io",
+    "tags": ["Caching", "Performance"]
+  },
+  {
+    "id": "book-ddia",
+    "type": "book",
+    "title": "Designing Data-Intensive Applications",
+    "description": "Deep dive into distributed systems, storage, and scalability design patterns.",
+    "date": "2026-02-12",
+    "link": "https://dataintensive.net/",
+    "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+    "tags": ["System Design", "Distributed Systems"],
+    "isFavorite": true
+  },
+  {
+    "id": "book-system-design-interview",
+    "type": "book",
+    "title": "System Design Interview – An Insider's Guide",
+    "description": "Practical system design preparation framework with real examples.",
+    "date": "2026-02-12",
+    "link": "https://www.amazon.com/dp/1736049119",
+    "imageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353",
+    "tags": ["System Design", "Interview"]
+  },
+  {
+    "id": "tool-langchain",
+    "type": "tool",
+    "title": "LangChain",
+    "description": "Framework for building LLM-powered applications with tools and memory.",
+    "date": "2026-02-12",
+    "icon": "Brain",
+    "link": "https://python.langchain.com/docs/",
+    "imageUrl": "https://logo.clearbit.com/langchain.com",
+    "tags": ["LLM", "Conversational AI"],
+    "isFavorite": true
+  },
+  {
+    "id": "tool-langgraph",
+    "type": "tool",
+    "title": "LangGraph",
+    "description": "Stateful LLM orchestration framework for building production agents.",
+    "date": "2026-02-12",
+    "icon": "GitBranch",
+    "link": "https://langchain-ai.github.io/langgraph/",
+    "imageUrl": "https://logo.clearbit.com/langchain.dev",
+    "tags": ["Agentic AI", "Orchestration"]
+  },
+  {
+    "id": "tool-openai",
+    "type": "tool",
+    "title": "OpenAI API",
+    "description": "LLM API supporting tool calling, streaming, embeddings, and RAG.",
+    "date": "2026-02-12",
+    "icon": "Sparkles",
+    "link": "https://platform.openai.com/docs/",
+    "imageUrl": "https://logo.clearbit.com/openai.com",
+    "tags": ["LLM", "AI Platform"],
+    "isFavorite": true
+  },
+  {
+    "id": "tool-anthropic",
+    "type": "tool",
+    "title": "Anthropic Claude",
+    "description": "LLM platform with advanced reasoning and prompt engineering patterns.",
+    "date": "2026-02-12",
+    "icon": "MessageSquare",
+    "link": "https://docs.anthropic.com/claude",
+    "imageUrl": "https://logo.clearbit.com/anthropic.com",
+    "tags": ["LLM", "AI Platform"]
+  },
+  {
+    "id": "tool-llamaindex",
+    "type": "tool",
+    "title": "LlamaIndex",
+    "description": "Framework for building RAG pipelines and data-connected LLM systems.",
+    "date": "2026-02-12",
+    "icon": "Search",
+    "link": "https://docs.llamaindex.ai/",
+    "imageUrl": "https://logo.clearbit.com/llamaindex.ai",
+    "tags": ["RAG", "LLM"]
+  },
+  {
+    "id": "tool-pinecone",
+    "type": "tool",
+    "title": "Pinecone",
+    "description": "Managed vector database for scalable similarity search.",
+    "date": "2026-02-12",
+    "icon": "Database",
+    "link": "https://docs.pinecone.io/",
+    "imageUrl": "https://logo.clearbit.com/pinecone.io",
+    "tags": ["Vector DB", "RAG"]
+  },
+  {
+    "id": "tool-weaviate",
+    "type": "tool",
+    "title": "Weaviate",
+    "description": "Open-source vector search engine with hybrid search capabilities.",
+    "date": "2026-02-12",
+    "icon": "Database",
+    "link": "https://weaviate.io/developers/weaviate",
+    "imageUrl": "https://logo.clearbit.com/weaviate.io",
+    "tags": ["Vector DB", "Search"]
+  },
+  {
+    "id": "tool-faiss",
+    "type": "tool",
+    "title": "FAISS",
+    "description": "Efficient similarity search library by Facebook AI Research.",
+    "date": "2026-02-12",
+    "icon": "Cpu",
+    "link": "https://github.com/facebookresearch/faiss",
+    "imageUrl": "https://opengraph.githubassets.com/1/facebookresearch/faiss",
+    "tags": ["Vector DB", "Research"]
+  },
+  {
+    "id": "tool-pgvector",
+    "type": "tool",
+    "title": "pgvector",
+    "description": "PostgreSQL extension for storing and querying vector embeddings.",
+    "date": "2026-02-12",
+    "icon": "Database",
+    "link": "https://github.com/pgvector/pgvector",
+    "imageUrl": "https://opengraph.githubassets.com/1/pgvector/pgvector",
+    "tags": ["PostgreSQL", "Vector DB"]
+  },
+  {
+    "id": "tool-kubernetes",
+    "type": "tool",
+    "title": "Kubernetes",
+    "description": "Container orchestration platform with autoscaling and deployment management.",
+    "date": "2026-02-12",
+    "icon": "Box",
+    "link": "https://kubernetes.io/docs/home/",
+    "imageUrl": "https://logo.clearbit.com/kubernetes.io",
+    "tags": ["DevOps", "Scaling"],
+    "isFavorite": true
+  },
+  {
+    "id": "tool-docker",
+    "type": "tool",
+    "title": "Docker",
+    "description": "Containerization platform for packaging and deploying applications.",
+    "date": "2026-02-12",
+    "icon": "Package",
+    "link": "https://docs.docker.com/",
+    "imageUrl": "https://logo.clearbit.com/docker.com",
+    "tags": ["DevOps", "Deployment"]
+  },
+  {
+    "id": "tool-prometheus",
+    "type": "tool",
+    "title": "Prometheus",
+    "description": "Monitoring and metrics collection system for distributed applications.",
+    "date": "2026-02-12",
+    "icon": "Activity",
+    "link": "https://prometheus.io/docs/",
+    "imageUrl": "https://logo.clearbit.com/prometheus.io",
+    "tags": ["Observability", "Monitoring"]
+  },
+  {
+    "id": "tool-grafana",
+    "type": "tool",
+    "title": "Grafana",
+    "description": "Visualization dashboard platform for metrics and logs.",
+    "date": "2026-02-12",
+    "icon": "BarChart",
+    "link": "https://grafana.com/docs/",
+    "imageUrl": "https://logo.clearbit.com/grafana.com",
+    "tags": ["Observability", "Monitoring"]
+  },
+  {
+    "id": "tool-opentelemetry",
+    "type": "tool",
+    "title": "OpenTelemetry",
+    "description": "Standard for distributed tracing, metrics, and logs instrumentation.",
+    "date": "2026-02-12",
+    "icon": "GitMerge",
+    "link": "https://opentelemetry.io/docs/",
+    "imageUrl": "https://logo.clearbit.com/opentelemetry.io",
+    "tags": ["Observability", "Tracing"]
+  },
+  {
+    "id": "tool-sentry",
+    "type": "tool",
+    "title": "Sentry",
+    "description": "Application error tracking and performance monitoring platform.",
+    "date": "2026-02-12",
+    "icon": "AlertCircle",
+    "link": "https://docs.sentry.io/",
+    "imageUrl": "https://logo.clearbit.com/sentry.io",
+    "tags": ["Monitoring", "Debugging"]
+  },
+  {
+    "id": "security-owasp",
+    "type": "learning",
+    "title": "OWASP Top 10",
+    "description": "Standard awareness document for web application security risks.",
+    "date": "2026-02-12",
+    "link": "https://owasp.org/www-project-top-ten/",
+    "imageUrl": "https://logo.clearbit.com/owasp.org",
+    "tags": ["Security", "Backend"],
+    "isFavorite": true
+  },
+  {
     "id": "tool-warp",
     "type": "tool",
     "title": "Warp Terminal",
@@ -117,3 +374,4 @@
     "tags": ["Compilers", "Languages"]
   }
 ]
+
