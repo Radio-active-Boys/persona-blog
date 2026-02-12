@@ -7,7 +7,7 @@
     "date": "2026-02-12",
     "icon": "Code",
     "link": "https://fastapi.tiangolo.com/",
-    "imageUrl": "https://logo.clearbit.com/tiangolo.com",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/fastapi.svg",
     "tags": ["Backend", "API"],
     "isFavorite": true
   },
@@ -19,7 +19,7 @@
     "date": "2026-02-12",
     "icon": "Zap",
     "link": "https://grpc.io/docs/",
-    "imageUrl": "https://logo.clearbit.com/grpc.io",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/grpc.svg",
     "tags": ["Distributed Systems", "RPC"]
   },
   {
@@ -30,7 +30,7 @@
     "date": "2026-02-12",
     "icon": "FileText",
     "link": "https://swagger.io/specification/",
-    "imageUrl": "https://logo.clearbit.com/swagger.io",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/swagger.svg",
     "tags": ["API", "Documentation"]
   },
   {
@@ -41,7 +41,7 @@
     "date": "2026-02-12",
     "icon": "Database",
     "link": "https://www.postgresql.org/docs/current/",
-    "imageUrl": "https://logo.clearbit.com/postgresql.org",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg",
     "tags": ["Database", "Backend"],
     "isFavorite": true
   },
@@ -53,29 +53,8 @@
     "date": "2026-02-12",
     "icon": "Layers",
     "link": "https://redis.io/docs/latest/",
-    "imageUrl": "https://logo.clearbit.com/redis.io",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/redis.svg",
     "tags": ["Caching", "Performance"]
-  },
-  {
-    "id": "book-ddia",
-    "type": "book",
-    "title": "Designing Data-Intensive Applications",
-    "description": "Deep dive into distributed systems, storage, and scalability design patterns.",
-    "date": "2026-02-12",
-    "link": "https://dataintensive.net/",
-    "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
-    "tags": ["System Design", "Distributed Systems"],
-    "isFavorite": true
-  },
-  {
-    "id": "book-system-design-interview",
-    "type": "book",
-    "title": "System Design Interview – An Insider's Guide",
-    "description": "Practical system design preparation framework with real examples.",
-    "date": "2026-02-12",
-    "link": "https://www.amazon.com/dp/1736049119",
-    "imageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353",
-    "tags": ["System Design", "Interview"]
   },
   {
     "id": "tool-langchain",
@@ -85,20 +64,9 @@
     "date": "2026-02-12",
     "icon": "Brain",
     "link": "https://python.langchain.com/docs/",
-    "imageUrl": "https://logo.clearbit.com/langchain.com",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/langchain.svg",
     "tags": ["LLM", "Conversational AI"],
     "isFavorite": true
-  },
-  {
-    "id": "tool-langgraph",
-    "type": "tool",
-    "title": "LangGraph",
-    "description": "Stateful LLM orchestration framework for building production agents.",
-    "date": "2026-02-12",
-    "icon": "GitBranch",
-    "link": "https://langchain-ai.github.io/langgraph/",
-    "imageUrl": "https://logo.clearbit.com/langchain.dev",
-    "tags": ["Agentic AI", "Orchestration"]
   },
   {
     "id": "tool-openai",
@@ -108,7 +76,7 @@
     "date": "2026-02-12",
     "icon": "Sparkles",
     "link": "https://platform.openai.com/docs/",
-    "imageUrl": "https://logo.clearbit.com/openai.com",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg",
     "tags": ["LLM", "AI Platform"],
     "isFavorite": true
   },
@@ -120,7 +88,7 @@
     "date": "2026-02-12",
     "icon": "MessageSquare",
     "link": "https://docs.anthropic.com/claude",
-    "imageUrl": "https://logo.clearbit.com/anthropic.com",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/anthropic.svg",
     "tags": ["LLM", "AI Platform"]
   },
   {
@@ -131,7 +99,7 @@
     "date": "2026-02-12",
     "icon": "Search",
     "link": "https://docs.llamaindex.ai/",
-    "imageUrl": "https://logo.clearbit.com/llamaindex.ai",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/llamaindex.svg",
     "tags": ["RAG", "LLM"]
   },
   {
@@ -142,7 +110,7 @@
     "date": "2026-02-12",
     "icon": "Database",
     "link": "https://docs.pinecone.io/",
-    "imageUrl": "https://logo.clearbit.com/pinecone.io",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pinecone.svg",
     "tags": ["Vector DB", "RAG"]
   },
   {
@@ -153,30 +121,8 @@
     "date": "2026-02-12",
     "icon": "Database",
     "link": "https://weaviate.io/developers/weaviate",
-    "imageUrl": "https://logo.clearbit.com/weaviate.io",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/weaviate.svg",
     "tags": ["Vector DB", "Search"]
-  },
-  {
-    "id": "tool-faiss",
-    "type": "tool",
-    "title": "FAISS",
-    "description": "Efficient similarity search library by Facebook AI Research.",
-    "date": "2026-02-12",
-    "icon": "Cpu",
-    "link": "https://github.com/facebookresearch/faiss",
-    "imageUrl": "https://opengraph.githubassets.com/1/facebookresearch/faiss",
-    "tags": ["Vector DB", "Research"]
-  },
-  {
-    "id": "tool-pgvector",
-    "type": "tool",
-    "title": "pgvector",
-    "description": "PostgreSQL extension for storing and querying vector embeddings.",
-    "date": "2026-02-12",
-    "icon": "Database",
-    "link": "https://github.com/pgvector/pgvector",
-    "imageUrl": "https://opengraph.githubassets.com/1/pgvector/pgvector",
-    "tags": ["PostgreSQL", "Vector DB"]
   },
   {
     "id": "tool-kubernetes",
@@ -186,7 +132,7 @@
     "date": "2026-02-12",
     "icon": "Box",
     "link": "https://kubernetes.io/docs/home/",
-    "imageUrl": "https://logo.clearbit.com/kubernetes.io",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg",
     "tags": ["DevOps", "Scaling"],
     "isFavorite": true
   },
@@ -198,7 +144,7 @@
     "date": "2026-02-12",
     "icon": "Package",
     "link": "https://docs.docker.com/",
-    "imageUrl": "https://logo.clearbit.com/docker.com",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg",
     "tags": ["DevOps", "Deployment"]
   },
   {
@@ -209,7 +155,7 @@
     "date": "2026-02-12",
     "icon": "Activity",
     "link": "https://prometheus.io/docs/",
-    "imageUrl": "https://logo.clearbit.com/prometheus.io",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/prometheus.svg",
     "tags": ["Observability", "Monitoring"]
   },
   {
@@ -220,19 +166,8 @@
     "date": "2026-02-12",
     "icon": "BarChart",
     "link": "https://grafana.com/docs/",
-    "imageUrl": "https://logo.clearbit.com/grafana.com",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/grafana.svg",
     "tags": ["Observability", "Monitoring"]
-  },
-  {
-    "id": "tool-opentelemetry",
-    "type": "tool",
-    "title": "OpenTelemetry",
-    "description": "Standard for distributed tracing, metrics, and logs instrumentation.",
-    "date": "2026-02-12",
-    "icon": "GitMerge",
-    "link": "https://opentelemetry.io/docs/",
-    "imageUrl": "https://logo.clearbit.com/opentelemetry.io",
-    "tags": ["Observability", "Tracing"]
   },
   {
     "id": "tool-sentry",
@@ -242,19 +177,8 @@
     "date": "2026-02-12",
     "icon": "AlertCircle",
     "link": "https://docs.sentry.io/",
-    "imageUrl": "https://logo.clearbit.com/sentry.io",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sentry.svg",
     "tags": ["Monitoring", "Debugging"]
-  },
-  {
-    "id": "security-owasp",
-    "type": "learning",
-    "title": "OWASP Top 10",
-    "description": "Standard awareness document for web application security risks.",
-    "date": "2026-02-12",
-    "link": "https://owasp.org/www-project-top-ten/",
-    "imageUrl": "https://logo.clearbit.com/owasp.org",
-    "tags": ["Security", "Backend"],
-    "isFavorite": true
   },
   {
     "id": "tool-warp",
@@ -374,4 +298,5 @@
     "tags": ["Compilers", "Languages"]
   }
 ]
+
 
