@@ -1,5 +1,60 @@
 [
   {
+    "id": "tool-mockoon",
+    "type": "tool",
+    "title": "Mockoon",
+    "description": "Local API mocking tool for simulating REST endpoints without backend dependencies.",
+    "date": "2026-04-10",
+    "icon": "Server",
+    "link": "https://mockoon.com/",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mockoon.svg",
+    "tags": ["API", "Testing", "Mocking"]
+  },
+  {
+    "id": "tool-olingo",
+    "type": "tool",
+    "title": "Apache Olingo",
+    "description": "Java library for building OData services and handling query options like $filter, $select, and $expand.",
+    "date": "2026-04-10",
+    "icon": "Code",
+    "link": "https://olingo.apache.org/",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apache.svg",
+    "tags": ["OData", "Java", "Backend"]
+  },
+  {
+    "id": "learning-window-functions",
+    "type": "learning",
+    "title": "SQL Window Functions",
+    "description": "Advanced SQL feature for performing calculations across rows related to the current row.",
+    "date": "2026-04-10",
+    "icon": "BarChart",
+    "videoUrl": "https://www.youtube.com/watch?v=BsI_jp7CXXk",
+    "tags": ["SQL", "Data Engineering", "Analytics"],
+    "content": "Covers ranking, partitioning, running totals, and analytical queries using window functions."
+  },
+  {
+    "id": "tool-pyspark",
+    "type": "tool",
+    "title": "PySpark",
+    "description": "Python API for Apache Spark enabling distributed data processing and large-scale analytics.",
+    "date": "2026-04-10",
+    "icon": "Database",
+    "link": "https://spark.apache.org/docs/latest/api/python/index.html",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachespark.svg",
+    "tags": ["Big Data", "Spark", "Python"]
+  },
+  {
+    "id": "platform-databricks",
+    "type": "tool",
+    "title": "Databricks",
+    "description": "Unified data analytics platform for big data, AI, and collaborative notebooks built on Apache Spark.",
+    "date": "2026-04-10",
+    "icon": "Cloud",
+    "link": "https://accounts.cloud.databricks.com/",
+    "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/databricks.svg",
+    "tags": ["Big Data", "Cloud", "Spark"]
+  },
+  {
     "id": "tool-fastapi",
     "type": "tool",
     "title": "FastAPI",
