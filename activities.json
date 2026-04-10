@@ -21,30 +21,29 @@
     "imageUrl": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apache.svg",
     "tags": ["OData", "Java", "Backend"]
   },
-  {
+    {
     "id": "learning-window-functions",
     "type": "learning",
     "title": "SQL Window Functions",
     "description": "Advanced SQL analytics including ranking, partitioning, and running aggregates.",
     "date": "2026-04-10",
-    "icon": "BarChart",
+    "icon": "Youtube",
     "link": "https://youtube.com/playlist?list=PLtgiThe4j67olcB82Fc3TT9q4cwWC3Is5",
     "videoUrl": "https://youtube.com/playlist?list=PLtgiThe4j67olcB82Fc3TT9q4cwWC3Is5",
-    "isPlaylist": true,
     "tags": ["SQL", "Data Engineering", "Analytics"],
     "relatedTools": ["tool-pyspark"],
     "content": "Core analytical foundation used in Spark SQL and big data pipelines."
   },
-  {
+    {
     "id": "learning-pyspark-sql",
     "type": "learning",
     "title": "PySpark SQL",
     "description": "Using Spark SQL for distributed querying, transformations, and analytics.",
     "date": "2026-04-10",
-    "icon": "Database",
+    "icon": "Youtube",
     "link": "https://youtube.com/playlist?list=PLKQDLSVlpMaSWL4RDW2ZotHB-beqyhYPz",
     "videoUrl": "https://youtube.com/playlist?list=PLKQDLSVlpMaSWL4RDW2ZotHB-beqyhYPz",
-    "isPlaylist": true,
+    "tags": ["Agentic AI", "LLMs"],
     "tags": ["Spark", "SQL", "Big Data"],
     "relatedTools": ["tool-pyspark", "platform-databricks"],
     "content": "Covers DataFrames, Spark SQL, and integration with distributed data pipelines."
