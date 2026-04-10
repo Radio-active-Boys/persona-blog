@@ -28,7 +28,7 @@
     "description": "Advanced SQL feature for performing calculations across rows related to the current row.",
     "date": "2026-04-10",
     "icon": "BarChart",
-    "videoUrl": "https://www.youtube.com/watch?v=BsI_jp7CXXk",
+    "videoUrl": "https://www.youtube.com/playlist?list=PLtgiThe4j67olcB82Fc3TT9q4cwWC3Is5",
     "tags": ["SQL", "Data Engineering", "Analytics"],
     "content": "Covers ranking, partitioning, running totals, and analytical queries using window functions."
   },
